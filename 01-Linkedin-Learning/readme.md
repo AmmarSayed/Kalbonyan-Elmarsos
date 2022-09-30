@@ -1,2 +1,1 @@
-# LinkedIn Learning Courses
-
+# Linkedin courses

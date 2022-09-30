@@ -1,18 +1,32 @@
-# Programming-foundation-Fundamentals
+# Programming-Foundations-Algorithms
+
+This repo is for the Programming Foundations: Algorithms course that I took.
+
+I will summarize the content of the course, answer chapter Quizzes and solve the challenges in the course.
+
 ### Course details
 
--  Gain the core knowledge to begin programming in any language. In this course, instructor Annyce Davis uses Python to explore the core concepts and structure of programming languages and helps you grasp what’s going on under the hood. After going over basic statements and expressions in Python, Annyce explores strings, variables, and conditional code which are common topics in all programming languages. She also shows how to work with different kinds of data and troubleshoot a variety of errors. Along the way, she compares how code is written in several different languages and provides guidance on the criteria to use when choosing a programming language. Upon wrapping up this course, you’ll have the knowledge you need to continue your coding journey in whichever language piques your interest.
+- Algorithms are the universal building blocks of programming. They power the software you use every day, whether it's a spreadsheet, a social network, or a driving assistant. Algorithms offer a way to think about programming challenges in plain English, before they are translated into a specific language like C# or JavaScript. In this course, author and developer Joe Marini explains some of the most popular and useful algorithms for searching and sorting information, working with techniques like recursion, and understanding common data structures. He also discusses the performance implications of different algorithms and how to evaluate the performance of a given algorithm. Each algorithm is shown in practice in Python, but the lessons can be applied to any programming language.
+
 ---
+
 ### Learning objectives
-- Writing source code
-- Basic statements and expressions
-- Working with numbers and strings
-- Writing conditional code
-- Increasing your efficiency with functions
-- Working with comments
-- Making decisions in code
-- Troubleshooting errors
-- Learning about other languages
--------------------------------
-<br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate]()
+
+- Measuring algorithm performance
+- Working with data structures such as arrays, stacks, and queues
+- Looping and recursion
+- Sorting data
+- Searching data
+- Filtering and value counting with hash tables
+
+---
+
+[Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
+
+---
+
+[Preview Certificate](https://www.linkedin.com/learning/certificates/333c4093d9dd38a3deddb92df88a2abdf85a1308d0e7245805dcb7ccb75f4e23)
+
+---
+
+![](./foundation.png)
