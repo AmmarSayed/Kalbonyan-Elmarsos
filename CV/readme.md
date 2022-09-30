@@ -32,21 +32,19 @@ Here are some ideas to get you started:
 
 <h2>About Me </h2>
 
-<p>I'm a self tought front end developer, and I've went through many online courses such as:</p>
+<p>I'm a self tought front end developer, and I've went through multible online courses / track suggested by </p>
 
-- Programming Foundations Fundamentals - Linkedin.com
-- Programming Foundations Beyond the Fundamentals - Linkedin.com
-- Programming Foundations Object-Oriented Design - Linkedin.com
-- Programming Foundations Algorithms - Linkedin.com
-- Programming Foundations Data Structures - Linkedin.com
-- Programming Foundations Design Patterns - Linkedin.com
-- Programming Foundations Databases - Linkedin.com
-- Programming Foundations APIs and Web Services - Linkedin.com
-- Programming Foundations Software TestingQA - Linkedin.com
-- Git Essential Training The Basics - Linkedin.com
+[Kalbonyan Elmarsos](https://github.com/AmmarSayed/Kalbonyan-Elmarsos)
+
+<p>During this 6 months internship, I have:</p>
+
+- Learned Programing Fundamentals, HTMl, CSS and Javascript
+- Learned MERN Stack
+- Learned How to Deploy web applications with Cloud Provider (AWS)
+- Learned How to Make serverless web applications
 
 <br>
-Those great recources have helped me alot and introduced me to the world of conding.
+Those great recources have helped me a lot and introduced me to the world of conding.
 I've a great background in Travel industry, Administration, Quality control and customer services.
 I've been in the profisional business environment for more than 10 years,
 which will definetly be agreat support in dealing with enternal and external stackholders of the business.
@@ -55,18 +53,18 @@ I'm self driven, hard working and easy going. I also hold a bachelors degree in 
 
 <hr>
 
-- 👨‍💻 Checout My Portfolio **[here](#)**
 - 📫 How to reach me on **[Email](ammarsayed1988@gmail.com)**
-- 🌱 I’m currently learning **React **
 - 🖊️ Linkedin [profile](https://www.linkedin.com/in/ammarsayed/)
+- 👨‍💻 Checout My Portfolio **[comming soon](#)**
+- 🌱 I’m currently learning **React**
 
 <hr>
 
 <h2>My stack </h2>
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React, MaterialUI
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React
 - **Database**: Firebase, MongoDB / Mongoose / MySQL
-- **Backend** : NodeJs / Express, Python (flask)
+- **Backend** : NodeJs / Express
 
 <hr>
 
